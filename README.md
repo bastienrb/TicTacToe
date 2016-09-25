@@ -4,7 +4,7 @@ Fonctionnalités :
 
 - Jouer contre un ami sur le même ordinateur.
 
--Jouer contre 3 IAs différentes : Facile, Moyen, Expert
+- Jouer contre 3 IAs différentes : Facile, Moyen, Expert
 
 
 ----------------------------------------------------------------------------------
